@@ -9,5 +9,5 @@ _Conducting portfolio analysis using Pandas dictionaries._
 
 # Risk
 ## Determine which portfolios are riskier than the S&P 500?
-_ TIGER GLOBAL MANAGEMENT LLC and BERKSHIRE HATHAWAY INC are risker than S&P 500
+- TIGER GLOBAL MANAGEMENT LLC and BERKSHIRE HATHAWAY INC are risker than S&P 500
 ![](3.png)
