@@ -1,2 +1,3 @@
-# Pandas-Portfolio-Analysis
-Conducting portfolio analysis using pandas dictionaries 
+# Pandas Portfolio Analysis
+Conducting portfolio analysis using Pandas dictionaries. 
+![](portfolio-analysis.png)
