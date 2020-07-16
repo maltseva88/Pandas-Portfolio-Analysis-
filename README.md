@@ -15,3 +15,6 @@ _Conducting portfolio analysis using Pandas dictionaries._
 ## On the basis of this performance metric, do our algo strategies outperform both 'the market' and the whales? 
 - Yes
 ![](4.png)
+
+# Portfolio Returns
+## 
