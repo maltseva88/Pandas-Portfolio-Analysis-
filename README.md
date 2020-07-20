@@ -16,5 +16,4 @@ _Conducting portfolio analysis using Pandas dictionaries._
 - Yes
 ![](4.png)
 
-# Portfolio Returns
-## 
+ 
