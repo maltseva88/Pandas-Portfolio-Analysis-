@@ -13,7 +13,7 @@ In this assignment, I applied quantitative analysis techniques with Python and P
 4). Risk Analysis (Created a box plot for each of the returns)
 5). Rolling Statistics (Constructed a correlation table for the algorithmic, whale, and S&P 500 returns)
 6). Plot Sharpe Ratios (Using the daily returns, calculated and visualize the Sharpe ratios using a bar plot.)
-
+7). Created Custom Portfolio
 
 # Performance
 ##  Does any portfolio outperform the S&P 500?
@@ -29,4 +29,6 @@ In this assignment, I applied quantitative analysis techniques with Python and P
 - Yes
 ![](4.png)
 
- 
+ ## Resources
+
+[Pandas API Docs](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
