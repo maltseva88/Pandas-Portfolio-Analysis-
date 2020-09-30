@@ -2,6 +2,9 @@
 _Conducting portfolio analysis using Pandas dictionaries._ 
 ![](portfolio-analysis.png)
 
+## Background
+In this assignment, I applied quantitative analysis techniques with Python and Pandas to determine which investment portfolio is performing the best across many areas: volatility, returns, risk, and Sharpe ratios.
+
 # Performance
 ##  Does any portfolio outperform the S&P 500?
 - Algo 1 and BERKSHIRE HATHAWAY INC outperformed S&P500
