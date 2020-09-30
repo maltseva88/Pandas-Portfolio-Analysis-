@@ -9,10 +9,10 @@ In this assignment, I applied quantitative analysis techniques with Python and P
 ### Conducted the following: 
 1). Prepared the Data
 2). Conducted Quantitative Analysis
-3). Performance Analysis (Calculate and plot cumulative returns)
-4). Risk Analysis (Create a box plot for each of the returns)
-5). Rolling Statistics (Construct a correlation table for the algorithmic, whale, and S&P 500 returns)
-
+3). Performance Analysis (Calculated and plotted cumulative returns)
+4). Risk Analysis (Created a box plot for each of the returns)
+5). Rolling Statistics (Constructed a correlation table for the algorithmic, whale, and S&P 500 returns)
+6). Plot Sharpe Ratios (Using the daily returns, calculated and visualize the Sharpe ratios using a bar plot.)
 
 
 # Performance
